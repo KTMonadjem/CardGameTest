@@ -1,0 +1,17 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/groundEarthCheckered.obj-df738cffa2dea60e68e096dd32981b3a.mesh"
+
+[deps]
+
+files=[ "res://.import/groundEarthCheckered.obj-df738cffa2dea60e68e096dd32981b3a.mesh" ]
+
+source_file="res://assets/Pack1/groundEarthCheckered/groundEarthCheckered.obj"
+dest_files=[ "res://.import/groundEarthCheckered.obj-df738cffa2dea60e68e096dd32981b3a.mesh", "res://.import/groundEarthCheckered.obj-df738cffa2dea60e68e096dd32981b3a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

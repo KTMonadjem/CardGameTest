@@ -1,0 +1,17 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Stone02.obj-486c46e45cf8809fffba0eb827494b0d.mesh"
+
+[deps]
+
+files=[ "res://.import/Stone02.obj-486c46e45cf8809fffba0eb827494b0d.mesh" ]
+
+source_file="res://assets/Pack1/stone/Stone02.obj"
+dest_files=[ "res://.import/Stone02.obj-486c46e45cf8809fffba0eb827494b0d.mesh", "res://.import/Stone02.obj-486c46e45cf8809fffba0eb827494b0d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

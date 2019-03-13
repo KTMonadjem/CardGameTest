@@ -1,0 +1,17 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/groundEarth.obj-d02e68a366e8a840c8601de337fae739.mesh"
+
+[deps]
+
+files=[ "res://.import/groundEarth.obj-d02e68a366e8a840c8601de337fae739.mesh" ]
+
+source_file="res://assets/Pack1/groundEarth/groundEarth.obj"
+dest_files=[ "res://.import/groundEarth.obj-d02e68a366e8a840c8601de337fae739.mesh", "res://.import/groundEarth.obj-d02e68a366e8a840c8601de337fae739.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

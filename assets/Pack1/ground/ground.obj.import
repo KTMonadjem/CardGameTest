@@ -1,0 +1,17 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ground.obj-c020eb19d4924ed079757c3cf2716bea.mesh"
+
+[deps]
+
+files=[ "res://.import/ground.obj-c020eb19d4924ed079757c3cf2716bea.mesh" ]
+
+source_file="res://assets/Pack1/ground/ground.obj"
+dest_files=[ "res://.import/ground.obj-c020eb19d4924ed079757c3cf2716bea.mesh", "res://.import/ground.obj-c020eb19d4924ed079757c3cf2716bea.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
