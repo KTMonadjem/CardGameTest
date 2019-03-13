@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/groundSnow.dae-173d14b0cfb440a9f790127a16c36141.scn"
+path="res://.import/groundSnow.dae-2753c9abe7cc319f957ca15126b86564.scn"
 
 [deps]
 
-source_file="res://assets/Pack1/groundSnow/groundSnow.dae"
-dest_files=[ "res://.import/groundSnow.dae-173d14b0cfb440a9f790127a16c36141.scn" ]
+source_file="res://assets/pack1/groundSnow/groundSnow.dae"
+dest_files=[ "res://.import/groundSnow.dae-2753c9abe7cc319f957ca15126b86564.scn" ]
 
 [params]
 

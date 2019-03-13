@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/wallBrick05.obj-cfec9b3d62088b165f76cc5dd65afe23.mesh"
+path="res://.import/wallBrick05.obj-804757e402629a47dbdded1b7bf0304f.mesh"
 
 [deps]
 
-files=[ "res://.import/wallBrick05.obj-cfec9b3d62088b165f76cc5dd65afe23.mesh" ]
+files=[ "res://.import/wallBrick05.obj-804757e402629a47dbdded1b7bf0304f.mesh" ]
 
-source_file="res://assets/Pack1/wallBrick/wallBrick05.obj"
-dest_files=[ "res://.import/wallBrick05.obj-cfec9b3d62088b165f76cc5dd65afe23.mesh", "res://.import/wallBrick05.obj-cfec9b3d62088b165f76cc5dd65afe23.mesh" ]
+source_file="res://assets/pack1/wallBrick/wallBrick05.obj"
+dest_files=[ "res://.import/wallBrick05.obj-804757e402629a47dbdded1b7bf0304f.mesh", "res://.import/wallBrick05.obj-804757e402629a47dbdded1b7bf0304f.mesh" ]
 
 [params]
 

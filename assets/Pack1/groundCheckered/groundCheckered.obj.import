@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/groundCheckered.obj-acc70576fa1d5182b1053696808d20c2.mesh"
+path="res://.import/groundCheckered.obj-e0f6e20d5c92e5880964481c5f9debdc.mesh"
 
 [deps]
 
-files=[ "res://.import/groundCheckered.obj-acc70576fa1d5182b1053696808d20c2.mesh" ]
+files=[ "res://.import/groundCheckered.obj-e0f6e20d5c92e5880964481c5f9debdc.mesh" ]
 
-source_file="res://assets/Pack1/groundCheckered/groundCheckered.obj"
-dest_files=[ "res://.import/groundCheckered.obj-acc70576fa1d5182b1053696808d20c2.mesh", "res://.import/groundCheckered.obj-acc70576fa1d5182b1053696808d20c2.mesh" ]
+source_file="res://assets/pack1/groundCheckered/groundCheckered.obj"
+dest_files=[ "res://.import/groundCheckered.obj-e0f6e20d5c92e5880964481c5f9debdc.mesh", "res://.import/groundCheckered.obj-e0f6e20d5c92e5880964481c5f9debdc.mesh" ]
 
 [params]
 

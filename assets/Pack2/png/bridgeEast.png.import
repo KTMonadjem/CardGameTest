@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bridgeEast.png-cc233fe36c6b3430ccc009241bb60690.stex"
+path="res://.import/bridgeEast.png-194e8890330228b97ba55831fd7b4d27.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/png/bridgeEast.png"
-dest_files=[ "res://.import/bridgeEast.png-cc233fe36c6b3430ccc009241bb60690.stex" ]
+source_file="res://assets/pack2/png/bridgeEast.png"
+dest_files=[ "res://.import/bridgeEast.png-194e8890330228b97ba55831fd7b4d27.stex" ]
 
 [params]
 

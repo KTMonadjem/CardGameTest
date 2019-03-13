@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Stone02.dae-d733fafffa0f268db6cf3e351eb186c6.scn"
+path="res://.import/Stone02.dae-ae05f17ad6a128e1b5a45a591c8884c2.scn"
 
 [deps]
 
-source_file="res://assets/Pack1/stone/Stone02.dae"
-dest_files=[ "res://.import/Stone02.dae-d733fafffa0f268db6cf3e351eb186c6.scn" ]
+source_file="res://assets/pack1/stone/Stone02.dae"
+dest_files=[ "res://.import/Stone02.dae-ae05f17ad6a128e1b5a45a591c8884c2.scn" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/water.dae-5354628e7d84bf167486aff2095c0279.scn"
+path="res://.import/water.dae-62c133bc555d6c032d7bc50db5561df4.scn"
 
 [deps]
 
-source_file="res://assets/Pack1/water/water.dae"
-dest_files=[ "res://.import/water.dae-5354628e7d84bf167486aff2095c0279.scn" ]
+source_file="res://assets/pack1/water/water.dae"
+dest_files=[ "res://.import/water.dae-62c133bc555d6c032d7bc50db5561df4.scn" ]
 
 [params]
 

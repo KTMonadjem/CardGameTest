@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lava01.dae-a8b3c00418e93550b453b4c59527f542.scn"
+path="res://.import/lava01.dae-50029a47c23307cc18906d9e9a27af3f.scn"
 
 [deps]
 
-source_file="res://assets/Pack1/lava/lava01.dae"
-dest_files=[ "res://.import/lava01.dae-a8b3c00418e93550b453b4c59527f542.scn" ]
+source_file="res://assets/pack1/lava/lava01.dae"
+dest_files=[ "res://.import/lava01.dae-50029a47c23307cc18906d9e9a27af3f.scn" ]
 
 [params]
 

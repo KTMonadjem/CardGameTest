@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/water.png-5650ff705f5fa003eaee4cf76cde7b96.stex"
+path="res://.import/water.png-b18ec28533c85837249e56efbb7847e3.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/png/water.png"
-dest_files=[ "res://.import/water.png-5650ff705f5fa003eaee4cf76cde7b96.stex" ]
+source_file="res://assets/pack2/png/water.png"
+dest_files=[ "res://.import/water.png-b18ec28533c85837249e56efbb7847e3.stex" ]
 
 [params]
 

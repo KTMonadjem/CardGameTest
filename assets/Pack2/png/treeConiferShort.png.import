@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/treeConiferShort.png-49480905fe958402a9a3c2f7fc28a8ce.stex"
+path="res://.import/treeConiferShort.png-6f1e80a67b2f9e99b5c1f0228e70a2a5.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/png/treeConiferShort.png"
-dest_files=[ "res://.import/treeConiferShort.png-49480905fe958402a9a3c2f7fc28a8ce.stex" ]
+source_file="res://assets/pack2/png/treeConiferShort.png"
+dest_files=[ "res://.import/treeConiferShort.png-6f1e80a67b2f9e99b5c1f0228e70a2a5.stex" ]
 
 [params]
 

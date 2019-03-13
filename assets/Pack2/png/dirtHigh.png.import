@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dirtHigh.png-9cf68e6b6a1604548fc260a75b944711.stex"
+path="res://.import/dirtHigh.png-dbfcb1df7b21946123145bff4b32c06d.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/png/dirtHigh.png"
-dest_files=[ "res://.import/dirtHigh.png-9cf68e6b6a1604548fc260a75b944711.stex" ]
+source_file="res://assets/pack2/png/dirtHigh.png"
+dest_files=[ "res://.import/dirtHigh.png-dbfcb1df7b21946123145bff4b32c06d.stex" ]
 
 [params]
 

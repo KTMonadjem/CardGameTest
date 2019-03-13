@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/roadCornerNW.png-405d5df173df8d07f27e9f971965907e.stex"
+path="res://.import/roadCornerNW.png-a46a4970d24e72f6803848d4a5b20042.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/png/roadCornerNW.png"
-dest_files=[ "res://.import/roadCornerNW.png-405d5df173df8d07f27e9f971965907e.stex" ]
+source_file="res://assets/pack2/png/roadCornerNW.png"
+dest_files=[ "res://.import/roadCornerNW.png-a46a4970d24e72f6803848d4a5b20042.stex" ]
 
 [params]
 

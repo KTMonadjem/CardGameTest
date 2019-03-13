@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/wallStone.dae-3f91163f0c99974691bbf3eb6205b2cf.scn"
+path="res://.import/wallStone.dae-df8de3358e283686558980b71783765b.scn"
 
 [deps]
 
-source_file="res://assets/Pack1/wallStone/wallStone.dae"
-dest_files=[ "res://.import/wallStone.dae-3f91163f0c99974691bbf3eb6205b2cf.scn" ]
+source_file="res://assets/pack1/wallStone/wallStone.dae"
+dest_files=[ "res://.import/wallStone.dae-df8de3358e283686558980b71783765b.scn" ]
 
 [params]
 

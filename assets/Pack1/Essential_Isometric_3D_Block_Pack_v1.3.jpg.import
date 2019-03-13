@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Essential_Isometric_3D_Block_Pack_v1.3.jpg-ce16960f6af7cdc171448b25a8d9b88c.stex"
+path="res://.import/Essential_Isometric_3D_Block_Pack_v1.3.jpg-6b5197c8875d52cdf32085e664ff52dc.stex"
 
 [deps]
 
-source_file="res://assets/Pack1/Essential_Isometric_3D_Block_Pack_v1.3.jpg"
-dest_files=[ "res://.import/Essential_Isometric_3D_Block_Pack_v1.3.jpg-ce16960f6af7cdc171448b25a8d9b88c.stex" ]
+source_file="res://assets/pack1/Essential_Isometric_3D_Block_Pack_v1.3.jpg"
+dest_files=[ "res://.import/Essential_Isometric_3D_Block_Pack_v1.3.jpg-6b5197c8875d52cdf32085e664ff52dc.stex" ]
 
 [params]
 

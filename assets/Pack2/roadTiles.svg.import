@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/roadTiles.svg-748d371eef87aeefdc24f596ab6e9ce0.stex"
+path="res://.import/roadTiles.svg-f3ce99035f0f993ca4b4bd55e5f6494f.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/roadTiles.svg"
-dest_files=[ "res://.import/roadTiles.svg-748d371eef87aeefdc24f596ab6e9ce0.stex" ]
+source_file="res://assets/pack2/roadTiles.svg"
+dest_files=[ "res://.import/roadTiles.svg-f3ce99035f0f993ca4b4bd55e5f6494f.stex" ]
 
 [params]
 

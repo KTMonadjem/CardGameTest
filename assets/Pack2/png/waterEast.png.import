@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/waterEast.png-b629d3d1d2d7f9e767f4fb4c15b0a0a4.stex"
+path="res://.import/waterEast.png-e8d8bd2229251fd1b9c5121616711f7d.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/png/waterEast.png"
-dest_files=[ "res://.import/waterEast.png-b629d3d1d2d7f9e767f4fb4c15b0a0a4.stex" ]
+source_file="res://assets/pack2/png/waterEast.png"
+dest_files=[ "res://.import/waterEast.png-e8d8bd2229251fd1b9c5121616711f7d.stex" ]
 
 [params]
 

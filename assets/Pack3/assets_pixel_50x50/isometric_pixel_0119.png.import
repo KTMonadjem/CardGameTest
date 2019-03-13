@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/isometric_pixel_0119.png-2ba0f47d9690b812b14476c9e5f4c4eb.stex"
+path="res://.import/isometric_pixel_0119.png-03a364aff93ad5c3db2cfcaafab10550.stex"
 
 [deps]
 
-source_file="res://assets/Pack3/assets_pixel_50x50/isometric_pixel_0119.png"
-dest_files=[ "res://.import/isometric_pixel_0119.png-2ba0f47d9690b812b14476c9e5f4c4eb.stex" ]
+source_file="res://assets/pack3/assets_pixel_50x50/isometric_pixel_0119.png"
+dest_files=[ "res://.import/isometric_pixel_0119.png-03a364aff93ad5c3db2cfcaafab10550.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/waterWest.png-7fd75c0ecf7a35c19136ec07e877108b.stex"
+path="res://.import/waterWest.png-29e68fdeaba66acedd574ec52334f919.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/png/waterWest.png"
-dest_files=[ "res://.import/waterWest.png-7fd75c0ecf7a35c19136ec07e877108b.stex" ]
+source_file="res://assets/pack2/png/waterWest.png"
+dest_files=[ "res://.import/waterWest.png-29e68fdeaba66acedd574ec52334f919.stex" ]
 
 [params]
 

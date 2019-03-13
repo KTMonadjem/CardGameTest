@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/hillRoadSouth.png-f62127d51c6e3afe1ccf40bbb9758265.stex"
+path="res://.import/hillRoadSouth.png-9084a49bc2bab2530dcc10b09a057d11.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/png/hillRoadSouth.png"
-dest_files=[ "res://.import/hillRoadSouth.png-f62127d51c6e3afe1ccf40bbb9758265.stex" ]
+source_file="res://assets/pack2/png/hillRoadSouth.png"
+dest_files=[ "res://.import/hillRoadSouth.png-9084a49bc2bab2530dcc10b09a057d11.stex" ]
 
 [params]
 

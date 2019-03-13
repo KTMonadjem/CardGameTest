@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/treeTall_autumn.png-04cdbee0fc6300303a5a80ab8a9a7698.stex"
+path="res://.import/treeTall_autumn.png-8612950327e98ae4979d8016b178ef60.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/png/treeTall_autumn.png"
-dest_files=[ "res://.import/treeTall_autumn.png-04cdbee0fc6300303a5a80ab8a9a7698.stex" ]
+source_file="res://assets/pack2/png/treeTall_autumn.png"
+dest_files=[ "res://.import/treeTall_autumn.png-8612950327e98ae4979d8016b178ef60.stex" ]
 
 [params]
 

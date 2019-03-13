@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/waterNorth.png-67b4008e5b183c82126d11517f814faa.stex"
+path="res://.import/waterNorth.png-6ea98ee6743ff08a117f85a88aba9180.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/png/waterNorth.png"
-dest_files=[ "res://.import/waterNorth.png-67b4008e5b183c82126d11517f814faa.stex" ]
+source_file="res://assets/pack2/png/waterNorth.png"
+dest_files=[ "res://.import/waterNorth.png-6ea98ee6743ff08a117f85a88aba9180.stex" ]
 
 [params]
 

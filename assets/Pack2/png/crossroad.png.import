@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/crossroad.png-cba416ac3e30359fa6c390819266cd5a.stex"
+path="res://.import/crossroad.png-69ea418779956a5b0314983c4817d7de.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/png/crossroad.png"
-dest_files=[ "res://.import/crossroad.png-cba416ac3e30359fa6c390819266cd5a.stex" ]
+source_file="res://assets/pack2/png/crossroad.png"
+dest_files=[ "res://.import/crossroad.png-69ea418779956a5b0314983c4817d7de.stex" ]
 
 [params]
 

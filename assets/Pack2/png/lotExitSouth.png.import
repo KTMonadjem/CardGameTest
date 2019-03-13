@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lotExitSouth.png-7c651f533ee6f02a09e5a4672a926d12.stex"
+path="res://.import/lotExitSouth.png-4ba1c3f89e797164842d9a6685d02a50.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/png/lotExitSouth.png"
-dest_files=[ "res://.import/lotExitSouth.png-7c651f533ee6f02a09e5a4672a926d12.stex" ]
+source_file="res://assets/pack2/png/lotExitSouth.png"
+dest_files=[ "res://.import/lotExitSouth.png-4ba1c3f89e797164842d9a6685d02a50.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/roadTEast.png-1a9b55d4f113c1d7ac5de874194e9d62.stex"
+path="res://.import/roadTEast.png-ffe67456f46b222794f85901d7c99869.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/png/roadTEast.png"
-dest_files=[ "res://.import/roadTEast.png-1a9b55d4f113c1d7ac5de874194e9d62.stex" ]
+source_file="res://assets/pack2/png/roadTEast.png"
+dest_files=[ "res://.import/roadTEast.png-ffe67456f46b222794f85901d7c99869.stex" ]
 
 [params]
 

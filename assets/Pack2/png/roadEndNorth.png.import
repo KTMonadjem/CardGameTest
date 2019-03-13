@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/roadEndNorth.png-12b730ea575f228345c8b6b67667742b.stex"
+path="res://.import/roadEndNorth.png-062d6c3623efdf1f541dcaffed2255c9.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/png/roadEndNorth.png"
-dest_files=[ "res://.import/roadEndNorth.png-12b730ea575f228345c8b6b67667742b.stex" ]
+source_file="res://assets/pack2/png/roadEndNorth.png"
+dest_files=[ "res://.import/roadEndNorth.png-062d6c3623efdf1f541dcaffed2255c9.stex" ]
 
 [params]
 

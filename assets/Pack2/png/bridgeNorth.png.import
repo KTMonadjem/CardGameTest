@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bridgeNorth.png-4879ede7bedd0bf0ac012499741ff9a1.stex"
+path="res://.import/bridgeNorth.png-949b6d970ed3941a8e86636c3245a0c8.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/png/bridgeNorth.png"
-dest_files=[ "res://.import/bridgeNorth.png-4879ede7bedd0bf0ac012499741ff9a1.stex" ]
+source_file="res://assets/pack2/png/bridgeNorth.png"
+dest_files=[ "res://.import/bridgeNorth.png-949b6d970ed3941a8e86636c3245a0c8.stex" ]
 
 [params]
 

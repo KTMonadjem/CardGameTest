@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/wallBrick02.dae-0d478cff8e4add30444454e1d7b29cd5.scn"
+path="res://.import/wallBrick02.dae-ad2b6d254127162491445f3cf84d0460.scn"
 
 [deps]
 
-source_file="res://assets/Pack1/wallBrick/wallBrick02.dae"
-dest_files=[ "res://.import/wallBrick02.dae-0d478cff8e4add30444454e1d7b29cd5.scn" ]
+source_file="res://assets/pack1/wallBrick/wallBrick02.dae"
+dest_files=[ "res://.import/wallBrick02.dae-ad2b6d254127162491445f3cf84d0460.scn" ]
 
 [params]
 

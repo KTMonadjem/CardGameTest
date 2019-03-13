@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/groundCheckered.dae-a47808c02ed528014a7606d8c643d4e0.scn"
+path="res://.import/groundCheckered.dae-44df64185b0b12fac67b94c22aacf8c1.scn"
 
 [deps]
 
-source_file="res://assets/Pack1/groundCheckered/groundCheckered.dae"
-dest_files=[ "res://.import/groundCheckered.dae-a47808c02ed528014a7606d8c643d4e0.scn" ]
+source_file="res://assets/pack1/groundCheckered/groundCheckered.dae"
+dest_files=[ "res://.import/groundCheckered.dae-44df64185b0b12fac67b94c22aacf8c1.scn" ]
 
 [params]
 

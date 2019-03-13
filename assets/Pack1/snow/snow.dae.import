@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/snow.dae-b750e159b75ca369d7f8fb60713b90f0.scn"
+path="res://.import/snow.dae-981a72df8804e8fd82eaa0998c70682b.scn"
 
 [deps]
 
-source_file="res://assets/Pack1/snow/snow.dae"
-dest_files=[ "res://.import/snow.dae-b750e159b75ca369d7f8fb60713b90f0.scn" ]
+source_file="res://assets/pack1/snow/snow.dae"
+dest_files=[ "res://.import/snow.dae-981a72df8804e8fd82eaa0998c70682b.scn" ]
 
 [params]
 

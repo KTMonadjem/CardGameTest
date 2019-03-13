@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/water.obj-1ff70381531c3ba809ee7e923b918f16.mesh"
+path="res://.import/water.obj-6b291161ce4d2add5649cfbef1b5da9e.mesh"
 
 [deps]
 
-files=[ "res://.import/water.obj-1ff70381531c3ba809ee7e923b918f16.mesh" ]
+files=[ "res://.import/water.obj-6b291161ce4d2add5649cfbef1b5da9e.mesh" ]
 
-source_file="res://assets/Pack1/water/water.obj"
-dest_files=[ "res://.import/water.obj-1ff70381531c3ba809ee7e923b918f16.mesh", "res://.import/water.obj-1ff70381531c3ba809ee7e923b918f16.mesh" ]
+source_file="res://assets/pack1/water/water.obj"
+dest_files=[ "res://.import/water.obj-6b291161ce4d2add5649cfbef1b5da9e.mesh", "res://.import/water.obj-6b291161ce4d2add5649cfbef1b5da9e.mesh" ]
 
 [params]
 

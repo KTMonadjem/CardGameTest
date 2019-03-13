@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/lotWest.png-1c3de4f8167e845e27d283da9ec61ac5.stex"
+path="res://.import/lotWest.png-dd8df0d073200b204a459cad46c0284e.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/png/lotWest.png"
-dest_files=[ "res://.import/lotWest.png-1c3de4f8167e845e27d283da9ec61ac5.stex" ]
+source_file="res://assets/pack2/png/lotWest.png"
+dest_files=[ "res://.import/lotWest.png-dd8df0d073200b204a459cad46c0284e.stex" ]
 
 [params]
 

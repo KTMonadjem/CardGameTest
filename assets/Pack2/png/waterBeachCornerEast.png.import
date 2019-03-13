@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/waterBeachCornerEast.png-12493aef15a8d9c0ca7b555abe5372d1.stex"
+path="res://.import/waterBeachCornerEast.png-8d19de7a307a50ea62a237aef01508d4.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/png/waterBeachCornerEast.png"
-dest_files=[ "res://.import/waterBeachCornerEast.png-12493aef15a8d9c0ca7b555abe5372d1.stex" ]
+source_file="res://assets/pack2/png/waterBeachCornerEast.png"
+dest_files=[ "res://.import/waterBeachCornerEast.png-8d19de7a307a50ea62a237aef01508d4.stex" ]
 
 [params]
 

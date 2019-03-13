@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/groundSnow.obj-4f828a10e91fd6d795bfc15093889d3c.mesh"
+path="res://.import/groundSnow.obj-c43b5457b666e3f060778d59e85e46e5.mesh"
 
 [deps]
 
-files=[ "res://.import/groundSnow.obj-4f828a10e91fd6d795bfc15093889d3c.mesh" ]
+files=[ "res://.import/groundSnow.obj-c43b5457b666e3f060778d59e85e46e5.mesh" ]
 
-source_file="res://assets/Pack1/groundSnow/groundSnow.obj"
-dest_files=[ "res://.import/groundSnow.obj-4f828a10e91fd6d795bfc15093889d3c.mesh", "res://.import/groundSnow.obj-4f828a10e91fd6d795bfc15093889d3c.mesh" ]
+source_file="res://assets/pack1/groundSnow/groundSnow.obj"
+dest_files=[ "res://.import/groundSnow.obj-c43b5457b666e3f060778d59e85e46e5.mesh", "res://.import/groundSnow.obj-c43b5457b666e3f060778d59e85e46e5.mesh" ]
 
 [params]
 

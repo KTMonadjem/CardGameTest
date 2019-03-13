@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/lava01.obj-c485dada45208fc68af90249ef0cb2d8.mesh"
+path="res://.import/lava01.obj-5e28ee62b2a343e4665e6a0eda3b91b3.mesh"
 
 [deps]
 
-files=[ "res://.import/lava01.obj-c485dada45208fc68af90249ef0cb2d8.mesh" ]
+files=[ "res://.import/lava01.obj-5e28ee62b2a343e4665e6a0eda3b91b3.mesh" ]
 
-source_file="res://assets/Pack1/lava/lava01.obj"
-dest_files=[ "res://.import/lava01.obj-c485dada45208fc68af90249ef0cb2d8.mesh", "res://.import/lava01.obj-c485dada45208fc68af90249ef0cb2d8.mesh" ]
+source_file="res://assets/pack1/lava/lava01.obj"
+dest_files=[ "res://.import/lava01.obj-5e28ee62b2a343e4665e6a0eda3b91b3.mesh", "res://.import/lava01.obj-5e28ee62b2a343e4665e6a0eda3b91b3.mesh" ]
 
 [params]
 

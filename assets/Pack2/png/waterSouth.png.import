@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/waterSouth.png-15310864cd5bf36d507194aff2f92faa.stex"
+path="res://.import/waterSouth.png-9aa1137ccffadfb8fff7df3ef3852d86.stex"
 
 [deps]
 
-source_file="res://assets/Pack2/png/waterSouth.png"
-dest_files=[ "res://.import/waterSouth.png-15310864cd5bf36d507194aff2f92faa.stex" ]
+source_file="res://assets/pack2/png/waterSouth.png"
+dest_files=[ "res://.import/waterSouth.png-9aa1137ccffadfb8fff7df3ef3852d86.stex" ]
 
 [params]
 
